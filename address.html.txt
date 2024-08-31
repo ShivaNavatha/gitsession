@@ -1,0 +1,7 @@
+<html>
+<title>ADDRESS PAGE</title>
+<body>
+<h2> This is the content for address page</h2>
+<P>This is about page paragraph</P>
+</body>
+</html>

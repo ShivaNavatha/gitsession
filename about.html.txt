@@ -1,0 +1,7 @@
+<html>
+<title>ABOUT PAGE</title>
+<body>
+<h3> This is the content for about page</h3>
+<P>This is about page paragraph</P>
+</body>
+</html>
